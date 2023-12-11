@@ -6,9 +6,9 @@ Please provide a brief summary of the changes and their purpose.
 
 - Link to any related GitHub issue(s) or WordPress VIP tickets.
 
-### JIRA Ticket 🎫
+### JIRA Ticket(s) 🎫
 
-- [JIRA Ticket Number]: [Description or Link]
+- [JIRA Ticket Number]: [Link]
 
 ### Type of Change 🛠️
 
@@ -16,9 +16,31 @@ Please provide a brief summary of the changes and their purpose.
 - [ ] New feature
 - [ ] Enhancement
 - [ ] Documentation update
-- [ ] Other (please specify)
+- [ ] Other (please specify): ________
 
-### Testing Done ✔️
+### Area of Impacts 🎯
+
+Please specify the area(s) of the codebase that this pull request impacts.
+
+- [ ] Frontend/UI
+- [ ] Backend/Server
+- [ ] Database
+- [ ] Infrastructure/Deployment
+- [ ] Performance
+- [ ] Security
+- [ ] Documentation
+- [ ] Testing
+- [ ] Other (please specify): ________
+
+### Multisite Impact 🌐
+
+Does this PR code changes impact any other currently live site in the multisite environment?
+
+- [ ] Yes
+- [ ] No
+- If Yes, please describe the impacted site(s) and the nature of the impact:
+
+### Testing Steps ✔️
 
 Describe the testing performed to ensure these changes work as intended.
 
