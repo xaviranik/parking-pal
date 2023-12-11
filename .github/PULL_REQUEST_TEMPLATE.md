@@ -2,13 +2,9 @@
 
 Please provide a brief summary of the changes and their purpose.
 
-### Related Issue(s) 🔗
-
-- Link to any related GitHub issue(s) or WordPress VIP tickets.
-
 ### JIRA Ticket(s) 🎫
 
-- [JIRA Ticket Number]: [Link]
+- JIRA Ticket Link(s)
 
 ### Type of Change 🛠️
 
